@@ -1,0 +1,9 @@
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\DemoQuanLyChoThueBangDia\bin\Debug\DemoQuanLyChoThueBangDia.exe.config
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\DemoQuanLyChoThueBangDia\bin\Debug\DemoQuanLyChoThueBangDia.exe
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\DemoQuanLyChoThueBangDia\bin\Debug\DemoQuanLyChoThueBangDia.pdb
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\DemoQuanLyChoThueBangDia\obj\Debug\DemoQuanLyChoThueBangDia.csproj.AssemblyReference.cache
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\DemoQuanLyChoThueBangDia\obj\Debug\DemoQuanLyChoThueBangDia.Properties.Resources.resources
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\DemoQuanLyChoThueBangDia\obj\Debug\DemoQuanLyChoThueBangDia.csproj.GenerateResource.cache
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\DemoQuanLyChoThueBangDia\obj\Debug\DemoQuanLyChoThueBangDia.csproj.CoreCompileInputs.cache
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\DemoQuanLyChoThueBangDia\obj\Debug\DemoQuanLyChoThueBangDia.exe
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\DemoQuanLyChoThueBangDia\obj\Debug\DemoQuanLyChoThueBangDia.pdb

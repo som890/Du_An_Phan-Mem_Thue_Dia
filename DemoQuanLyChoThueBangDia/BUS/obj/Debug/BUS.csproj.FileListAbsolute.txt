@@ -1,0 +1,15 @@
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\BUS\bin\Debug\BUS.dll
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\BUS\bin\Debug\BUS.pdb
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\BUS\bin\Debug\DAO.dll
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\BUS\bin\Debug\DTO.dll
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\BUS\bin\Debug\DAO.pdb
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\BUS\bin\Debug\DTO.pdb
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\BUS\obj\Debug\BUS.dll
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\BUS\obj\Debug\BUS.pdb
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\BUS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\BUS\bin\Debug\itextsharp.dll
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\BUS\bin\Debug\itextsharp.xml
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\BUS\obj\Debug\BUS.csproj.ResolveComReference.cache

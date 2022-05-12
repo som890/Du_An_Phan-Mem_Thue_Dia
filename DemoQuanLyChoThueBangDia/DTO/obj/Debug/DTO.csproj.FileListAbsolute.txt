@@ -1,0 +1,11 @@
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\DTO\bin\Debug\DTO.dll
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\DTO\bin\Debug\DTO.pdb
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\DTO\obj\Debug\DTO.dll
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\DTO\obj\Debug\DTO.pdb
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\DTO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\DTO\bin\Debug\itextsharp.dll
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\DTO\bin\Debug\itextsharp.xml
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\Som Som\source\repos\DemoQuanLyChoThueBangDia\DTO\obj\Debug\DTO.csproj.ResolveComReference.cache
